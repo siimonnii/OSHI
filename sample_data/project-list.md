@@ -58,6 +58,7 @@ Wikimedia sample data (copy from list above):
 - [OttoDIY](https://www.ottodiy.com/)
 - [Ultimate Hacking Keyboard](https://github.com/UltimateHackingKeyboard/)
 - [Volled Board](https://wikifactory.com/@shad0w/volled-board)
+- [Maths Tablet] (https://github.com/PubInv/math-tablet)
 
 ### developer tools
 
@@ -84,6 +85,7 @@ Wikimedia sample data (copy from list above):
 #### basic equipment
 
 - [GliaX-Tourniquet](https://github.com/GliaX/tourniquet)
+- [Moonrat: A portble incubator](https://github.com/PubInv/moonrat/blob/master/README.md)
 
 #### diagnosis
 
@@ -91,6 +93,7 @@ Wikimedia sample data (copy from list above):
 - [GliaX-Otoscope](https://github.com/GliaX/Otoscope)
 - [GliaX-Stethoscope](https://github.com/GliaX/Stethoscope)
   - was peer-reviewed [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193087)
+- [Rapid E. coli presence detector] (https://github.com/PubInv/PubInv/blob/master/ideas/Project%20%2341:%20Rapid%20coliform%20presence%20detector.md)
 
 #### protection (COVID-19)
 
@@ -106,12 +109,15 @@ Wikimedia sample data (copy from list above):
 - [Low-Cost Open Source Ventilator or PAPR](https://github.com/jcl5m1/ventilator)
 - [OxyGEN](https://github.com/ProtofyTeam/OxyGEN)
 - [VentilAid](https://gitlab.com/Urbicum/ventilaid/)
+- [Ventmon] (https://github.com/PubInv/ventmon-ventilator-inline-test-monitor)
+- [Ventilator Verification Project] (https://www.pubinv.org/project/ventilator-verification-project/)
 
 ### mobility
 
 - [frachtstück](https://veit-penzenstadler.de/frachtstueck/)
 - [roden](https://www.roden.com.ar/product-category/downloads/)
 - [OpenEVSE](https://github.com/openevse)
+- [tetrobot](https://pubinv.github.io/tetrobot/)
 
 ### production tool
 
